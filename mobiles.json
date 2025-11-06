@@ -1,0 +1,38 @@
+{
+  "category": "mobiles",
+  "folder_location": "project/images/",
+  "items": [
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S24",
+      "price": 79999,
+      "ram": "8GB",
+      "rom": "256GB",
+    "image": "images/1.jpeg"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "price": 89999,
+      "ram": "6GB",
+      "rom": "256GB",
+      "image": "images/2.jpeg"
+    },
+    {
+      "brand": "OnePlus",
+      "model": "OnePlus 12",
+      "price": 69999,
+      "ram": "12GB",
+      "rom": "256GB",
+       "image": "images/3.jpeg"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 14",
+      "price": 49999,
+      "ram": "8GB",
+      "rom": "256GB",
+       "image": "images/4.jpeg"
+    }
+  ]
+}
